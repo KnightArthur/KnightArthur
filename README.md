@@ -1,1 +1,1 @@
-"# sema_first_repo se" 
+"# sema_first_repo" 
